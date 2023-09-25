@@ -51,26 +51,15 @@ This application allows users to:
     }
    ```
 
-##Usage
+## Usage
 
 1. Run the application:
    ```bash
    python3 app.py
    ```
 
-or run the application in debug-mode that allows interactive options:
+   or run the application in debug-mode that allows interactive options:
    ```bash
    python3 app.py --debug
    ```
-**Author:**  
-Vladislav Cernega
-
-**Version:**  
-1.0
-
-**Date:**  
-25-09-2023
-
-**License:**  
-This project is licensed under the MIT License.
 
