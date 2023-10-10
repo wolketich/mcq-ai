@@ -29,7 +29,7 @@ This application allows users to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wolketich/mcq-ai/)https://github.com/wolketich/mcq-ai/
+   git clone https://github.com/wolketich/mcq-ai/
    ```
 
 2. Navigate to the project directory:
